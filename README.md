@@ -2,7 +2,10 @@
 
 *From uncertain signals to defensible action.*
 
-A full-stack web application: a **FastAPI backend**, a **SQLite database**, an **investigation engine** that reads the graph and policy data, **login with roles**, and a **web interface** that shows each case as the backend works on it.
+ARGUS is a full-stack **agentic fraud investigation and decision intelligence platform** built to transform uncertain fraud signals into structured, evidence-driven investigations. It combines a **FastAPI backend, SQLite database, graph and policy analysis, role-based authentication, and an interactive web interface** to provide a complete case investigation workflow.
+
+The platform analyzes relationships between entities, evaluates relevant policies, processes investigation data, and generates structured findings while keeping investigators informed of each stage of the investigation. Instead of simply flagging suspicious activity, ARGUS focuses on understanding **what happened, why it matters, what evidence supports it, and what action can be considered**.
+
 
 ![Investigation workspace](docs/screenshots/08-after-evidence.jpg)
 
